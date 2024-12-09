@@ -34,7 +34,7 @@ I am a dedicated Full-Stack Developer with a strong foundation in **Computationa
 | Project    | Tech Stack                          | Repo Link | Live Demo |
 |------------|-------------------------------------|-----------|-----------|
 | **GoalDigger** | React, Node.js, MongoDB, Express | [GitHub](https://github.com/hadeelbk/goal-diggers.git) |  |
-| **PetAdopt** (master)  | React, Express.js, MongoDB       | [GitHub](https://github.com/hadeelbk/soloProject.git)   | [Live Demo](https://youtu.be/daxerr8_VXA?si=FNyuhZ6dinvD2Ld6)   |
+| **PetAdopt**   | React, Express.js, MongoDB       | [GitHub](https://github.com/hadeelbk/soloProject.git)   | [Live Demo](https://youtu.be/daxerr8_VXA?si=FNyuhZ6dinvD2Ld6)   |
 | **GlowPath**   | React, TypeScript, Express, MongoDB | [GitHub](https://github.com/GlowPathOrg/GlowPath.git) | [Live Demo](TBC)   |
 
 
