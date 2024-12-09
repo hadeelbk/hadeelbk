@@ -4,7 +4,7 @@
 
 I am a dedicated Full-Stack Developer with a strong foundation in **Computational Neuroscience and Robotics**. My passion for technology and continuous learning drives me to create impactful, user-centric applications. Whether exploring new programming languages or optimizing existing code, I thrive on the journey to technological excellence.
 
-- 🌟 **Current Focus**: Enhancing my expertise in **JavaScript**, **TypeScript**, **Node.js**, **Express/Koa**, **React**, **MongoDB**, and **SQL** to stay at the forefront of the industry.
+- 🌟 Enhancing my expertise in **JavaScript**, **TypeScript**, **Node.js**, **Express/Koa**, **React**, **MongoDB**, and **SQL** to stay at the forefront of the industry.
 - 💼 **Projects**: My portfolio reflects a blend of innovative development, available at [https://github.com/hadeelbk].
 - 🎨 **Creative Pursuits**: Outside of coding, I express my creativity through digital art, which inspires my approach to innovation and creativity.
 
