@@ -9,10 +9,10 @@ I am a dedicated Full-Stack Developer with a strong foundation in **Computationa
 - 🎨 **Creative Pursuits**: Outside of coding, I express my creativity through digital art, which inspires my approach to innovation and creativity.
 
 📩 **Connect with me**:
-- Email: [h.y.benk3@gamil.com]
-- LinkedIn: [www.linkedin.com/in/hadil-benkoura]
+- [Email](h.y.benk3@gamil.com)
+- [LinkedIn](www.linkedin.com/in/hadil-benkoura)
 
-### Languages and Tools:
+
 
 ### Languages and Tools:
 
